@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'B3E58DA7DA743135C6C2CDFE23279575'
+               BlueprintIdentifier = '921E3841174CED7B9B80AC1B2A77804A'
                BlueprintName = 'Pods-ISVCashierSystem'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libPods-ISVCashierSystem.a'>

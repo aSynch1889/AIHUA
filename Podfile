@@ -16,6 +16,8 @@ pod 'Aspects'
 
 pod 'OpenSSL'
 
+pod 'SVProgressHUD'
+
 end
 
 

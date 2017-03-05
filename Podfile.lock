@@ -24,6 +24,7 @@ PODS:
   - SDWebImage (4.0.0-beta2):
     - SDWebImage/Core (= 4.0.0-beta2)
   - SDWebImage/Core (4.0.0-beta2)
+  - SVProgressHUD (2.0.3)
 
 DEPENDENCIES:
   - Aspects
@@ -33,6 +34,7 @@ DEPENDENCIES:
   - MJRefresh (~> 3.1.12)
   - OpenSSL
   - SDWebImage (~> 4.0.0-beta2)
+  - SVProgressHUD
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
@@ -43,7 +45,8 @@ SPEC CHECKSUMS:
   MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
   OpenSSL: b187269d386b07452f56af273764ea0636dd5da8
   SDWebImage: e379f33106cf8d6766f970c0ef1c3fb609c94d78
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
 
-PODFILE CHECKSUM: 6b4aec98f569ea16517c998cc383064362bf526a
+PODFILE CHECKSUM: 06bd1d87d34467adecb509b45477ee3d83ae4509
 
 COCOAPODS: 1.1.1
